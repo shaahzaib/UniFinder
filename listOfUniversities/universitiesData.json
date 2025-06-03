@@ -1,0 +1,125 @@
+[
+  {
+    "name": "University of Central Punjab",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1001,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.3387,
+      "latitude": 31.5127
+    },
+    "description": "Founded in 2002, the University of Central Punjab (UCP) is a private institution offering a variety of undergraduate, graduate, and doctoral programs in fields such as business, engineering, computer science, and social sciences. It is known for its modern teaching methods and focus on quality education.",
+    "imageName": "ucp"
+  },
+  {
+    "name": "University of Lahore",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1002,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.2417,
+      "latitude": 31.3909
+    },
+    "description": "Founded in 1999, the University of Lahore is one of Pakistan's largest private universities. It offers a wide array of programs in disciplines such as engineering, health sciences, business, humanities, and law. UOL is known for its diverse academic offerings and high student enrollment.",
+    "imageName": "uol"
+  },
+  {
+    "name": "National University of Sciences and Technology (NUST) Lahore Campus",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1003,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.3742,
+      "latitude": 31.4854
+    },
+    "description": "NUST is one of Pakistan's premier institutions for engineering, technology, and management education. The Lahore campus offers a range of undergraduate and graduate programs, emphasizing research and development, innovation, and the technological advancement of students.",
+    "imageName": "nust"
+  },
+  {
+    "name": "Pakistan Institute of Applied Social Sciences (PIASS)",
+    "city": "Not widely known",
+    "state": "Not widely known",
+    "id": 1004,
+    "isFeatured": false,
+    "isFavorite": false,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": null,
+      "latitude": null
+    },
+    "description": "PIASS is focused on applied social sciences and aims to equip students with practical skills in areas such as sociology, economics, and public administration. It bridges theoretical knowledge with real-world applications for social development.",
+    "imageName": "piass"
+  },
+  {
+      "name": "Lahore University of Management Sciences (LUMS)",
+         "city": "Lahore",
+         "state": "Punjab",
+         "id": 1005,
+         "isFeatured": true,
+         "isFavorite": true,
+         "country": "Pakistan",
+         "coordinates": {
+           "longitude": 74.3707,
+           "latitude": 31.4904
+         },
+         "description": "LUMS, founded in 1984, is one of Pakistan's top universities, particularly known for its business, management, and social sciences programs. It also offers programs in law, engineering, and humanities. LUMS is recognized for its academic rigor and strong industry connections.",
+         "imageName": "lums"
+    },
+    "description": "LuMS specializes in business and management education, offering undergraduate and graduate programs in management, finance, marketing, and entrepreneurship. It is known for its focus on practical business solutions and leadership development.",
+    "imageName": "lums"
+  },
+  {
+    "name": "Beaconhouse National University (BNU)",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1006,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.3275,
+      "latitude": 31.5423
+    },
+    "description": "BNU, established in 2003, offers a wide range of programs in business, humanities, arts, and design. Known for its emphasis on creativity and innovation, it provides an enriching environment for students to develop both academically and artistically.",
+    "imageName": "bnu"
+  },
+  {
+    "name": "Government College University (GCU)",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1007,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.3587,
+      "latitude": 31.5584
+    },
+    "description": "One of Pakistan's oldest universities, GCU Lahore was founded in 1864. It offers a variety of undergraduate and graduate programs in the fields of arts, sciences, business, and law, and is known for its historical significance and academic excellence.",
+    "imageName": "gcu"
+  },
+  {
+    "name": "University of Management and Technology (UMT)",
+    "city": "Lahore",
+    "state": "Punjab",
+    "id": 1008,
+    "isFeatured": true,
+    "isFavorite": true,
+    "country": "Pakistan",
+    "coordinates": {
+      "longitude": 74.3131,
+      "latitude": 31.4978
+    },
+    "description": "Founded in 1990, UMT is a private institution offering a range of programs in business administration, engineering, and computer science. UMT is known for its research-driven approach and commitment to providing a practical and innovative education.",
+    "imageName": "umt"
+  }
+]
